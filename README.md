@@ -76,5 +76,5 @@ python main.py
 ## 🙋‍♂️ Author
 ### Meeturi Ajay Kumar
 Connect with me on 
-- ![LinkedIn](https://www.linkedin.com/in/meeturi-ajay-kumar-a02743248/)
+- [LinkedIn](https://www.linkedin.com/in/meeturi-ajay-kumar-a02743248/)
 - meeturiajaykumar.23@gmail.com

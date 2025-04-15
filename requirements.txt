@@ -1,0 +1,9 @@
+ipykernel
+langchain
+langchain_groq
+langchain_community
+bs4
+dotenv
+pypdf
+sentence-transformers
+custom_st
